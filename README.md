@@ -40,4 +40,4 @@ Contact us:
 
 Alan Liška (alan.liska@jh-inst.cas.cz)
 
-Veronika Růžičková
+Veronika Růžičková (sucha.ver@gmail.com)
