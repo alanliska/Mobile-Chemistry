@@ -1,7 +1,7 @@
 # Mobile-Chemistry
 Third party open-source software compiled for most popular mobile platforms: Windows and Android
 
-IMPORTANT: All codes in the Mobile Chemistry Portal are third party open-source software which is offered for free download under terms of GPL (General Public License) usually with kind permission of the authors (their names and links to corresponding websites are provided at each individual program; the exceptions are denoted by asterisk and correspond to cases when the contact to the authors was not found). We only compiled the free sources.
+IMPORTANT: All codes in the Mobile Chemistry Portal are third party software which is offered to free download under terms of GPL (General Public License, applicable to Babel, CNINDO, DeFT, HFCXX, ICON-EDiT, Mobosol, Monstergauss, MOPAC, PHREEQC, Siam Quantum and Uquantchem) or Apache (applicable to SMASH) with kind permission of the authors (their names and links to corresponding websites are provided at each individual program). We only compiled the free sources for nowadays most used mobile platforms: Android and Windows. 
 
 
 List of resources:
@@ -25,6 +25,8 @@ MOPAC 7 (James J.P. Stewart, http://openmopac.net/)
 PHREEQC (David L. Parkhurst and C.A.J. Appelo, https://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/)
 
 SIAM QUANTUM (Teepanis Chachiyo, Theerapon Khamla, Nanta Sophonrat, Keerati Maneesai, Narong Pootatdoawng, Aniwat Kesorn, Chutchawan Jaisuk, https://github.com/Siam-Quantum/SQ-4.0-Development)
+
+SMASH (Kazuya Ishimura, http://smash-qc.sourceforge.net/)
 
 UQUANTCHEM (Petros Souvatzis, https://github.com/petrossou/uquantchem)
 
